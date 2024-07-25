@@ -1,6 +1,5 @@
 {
-    "name": "Feketebt.hu",
-    "description": "Feketebt.hu felújítása",
+    "name": "Feketebt",
     "require": {
         "php": ">=7.4",
         "some/package": "^1.0"
