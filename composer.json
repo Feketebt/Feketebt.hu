@@ -1,5 +1,5 @@
 {
-    "name": "feketebt",
+    "name": "vendor/feketebt",
     "require": {
         "php": ">=7.4",
         "some/package": "^1.0"
